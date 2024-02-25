@@ -1,5 +1,7 @@
 A replica of the popular mobile game Color Switch, done entirely in Unity. The goal of this project was to replicate the main gameplay, and add some of the obstacles. I didn't add every single type of obstacle and multiple modes and color schemes like the original, as it wasn't my goal to replicate absolutely everything about the game. 
 
+itch.io link: [https://opensand.itch.io/color-switch-replica](url)
+
 HOW TO PLAY:
 
 You are a ball that keeps jumping upwards while avoiding obstacles. Press "E" to jump, and "Esc" to pause. Stars are how you will gather points, while the colorful spheres will the change the color of the ball. To get past obstacles, make sure you pass avoid hitting the parts of the obstacle that are different from the color of your ball, as this will be game over!
