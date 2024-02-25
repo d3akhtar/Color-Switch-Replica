@@ -1,6 +1,6 @@
 A replica of the popular mobile game Color Switch, done entirely in Unity. The goal of this project was to replicate the main gameplay, and add some of the obstacles. I didn't add every single type of obstacle and multiple modes and color schemes like the original, as it wasn't my goal to replicate absolutely everything about the game. 
 
-itch.io link: [https://opensand.itch.io/color-switch-replica](url)
+itch.io link: [[https://opensand.itch.io/color-switch-replica]](url)
 
 HOW TO PLAY:
 
